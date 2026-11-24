@@ -63,4 +63,4 @@ adb forward --list
 
 ## Demo 影片
 
-Demo 影片連結：https://youtu.be/tXaOVS-LMP。
+Demo 影片連結：https://youtu.be/Y5WkosALI2s?si=sfVNE57qw-yMl1mk。
